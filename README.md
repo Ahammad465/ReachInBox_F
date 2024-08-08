@@ -1,4 +1,4 @@
-# ReachInbox.AI: React Project
+# ReachInbox.AI: Frontend Project
 
 ---
 
